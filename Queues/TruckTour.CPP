@@ -1,3 +1,7 @@
+//Compiled in turbo c++.
+//Author:Soumyadeep Jana
+//problem statement-https://www.hackerrank.com/challenges/truck-tour
+
 #include<iostream.h>
 #include<conio.h>
 #include<stdio.h>
