@@ -1,2 +1,3 @@
 # HackerRank
-Problems on HackerRank (www.hackerrank.com)
+ Code Challenges on HackerRank (www.hackerrank.com)
+
