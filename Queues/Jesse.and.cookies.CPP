@@ -1,3 +1,7 @@
+//Compiled in turbo c++.
+//Author:Soumyadeep Jana
+//problem statement-https://www.hackerrank.com/challenges/jesse-and-cookies
+
 #include<iostream.h>
 #include<conio.h>
 
